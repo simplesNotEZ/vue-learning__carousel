@@ -1,0 +1,22 @@
+export default [
+  'https://www.geepeekay.com/gallery/os1/os1_1b.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_2b.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_3b.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_4a.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_5a.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_6a.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_7b.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_8a.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_10a.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_11a.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_12b.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_13a.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_14a.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_15b.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_16b.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_17a.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_18a.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_21a.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_22a.jpg',
+  'https://www.geepeekay.com/gallery/os1/os1_23b.jpg'
+];
